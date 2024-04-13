@@ -4,7 +4,7 @@ Para empezar a utilizar correctamente el repositorio público de la clase de Lab
 
 1. Luego de haber descargado GIT, iniciar sesión con una cuenta en GitHub y unirse al repositorio: Creen una carpeta en su PC junto a su proyecto y abran Visual Studio Code en esa carpeta.
 
-2. Clonen el repositorio de la rama main en esa carpeta escribiendo en la barra de búsqueda superior el comando: >git clone y el URL del repositorio: https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git
+  2. Clonen el repositorio de la rama main en esa carpeta escribiendo en la barra de búsqueda superior el comando: >git clone. Seguidamente colocar en la misma barra el URL del repositorio: https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git
 
 3. Una vez clonado el repositorio de la rama principal main deberán vincular su repositorio local con el remoto en GitHub (solamente la primera vez) para esto abran la terminal en vscode.
 
