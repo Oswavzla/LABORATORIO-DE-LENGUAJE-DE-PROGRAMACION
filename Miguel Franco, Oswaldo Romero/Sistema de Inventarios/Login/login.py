@@ -96,4 +96,4 @@ user2 = user('vago','4321')
 
 user1.conect()
 user1.disconect()
-#user2.conect()
+user2.conect()
