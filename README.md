@@ -11,9 +11,9 @@
 
 4. Clona el repositorio de la rama principal en esa carpeta. Para hacerlo, escribe en la barra de búsqueda superior 🔎 en VSCode el comando: *>git clone*  presiona Enter y luego coloca en la misma barra el URL del repositorio: *https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. También puedes clonar la rama desde la terminal de Windows del VSCcode, el CMD o el Git Bash con el siguiente comando: *git clone https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. 💻 
 
-5. Una vez clonado el repositorio, vincula tu repositorio local con el remoto en GitHub. Para hacerlo, abre la terminal en VSCode (Control+Shift+` para teclados en Inglés 🇺🇸 o Control+Shift+ñ para teclados en Español 🇪🇸
+5. Una vez clonado el repositorio, vincula tu repositorio local con el remoto en GitHub. Para hacerlo, abre la terminal en VSCode (Control+Shift+` para teclados en Inglés 🇺🇸 o Control+Shift+ñ para teclados en Español 🇪🇸).
 
-6. En la terminal, escribe los siguientes comandos, reemplazando “SU-CORREO-ELECTRONICO” y “SU-NOMBRE-DE-USUARIO-DE-GITHUB” con tu correo electrónico y nombre de usuario de GitHub, respectivamente: 📶
+6. En la terminal, escribe los siguientes comandos, reemplazando “SU-CORREO-ELECTRONICO” y “SU-NOMBRE-DE-USUARIO-DE-GITHUB” con tu correo electrónico y nombre de usuario de GitHub, respectivamente: 📎
 *git config --global user.email "SU-CORREO-ELECTRONICO"* Enter
 *git config --global user.name "SU-NOMBRE-DE-USUARIO-DE-GITHUB"* Enter
 
