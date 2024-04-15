@@ -16,9 +16,10 @@
 
 7. En la terminal, escribe los siguientes comandos, reemplazando “SU-CORREO-ELECTRONICO” y “SU-NOMBRE-DE-USUARIO-DE-GITHUB” con tu correo electrónico y nombre de usuario de GitHub, respectivamente: 📎
 
-*git config --global user.email "SU-CORREO-ELECTRONICO"* Enter
+  *git config --global user.email "SU-CORREO-ELECTRONICO"* Enter
 
-*git config --global user.name "SU-NOMBRE-DE-USUARIO-DE-GITHUB"* Enter
+  *git config --global user.name "SU-NOMBRE-DE-USUARIO-DE-GITHUB"* Enter
+  
 
 8. Para subir los cambios a una rama separada, ve al apartado de Source Control de GIT en VSCode (Control+Shift+G), presiona los 3 puntos (…) a la derecha del signo de Refresh 🔃 , baja hasta el apartado de Branch, presiona Crear Branch y coloca el nombre de los integrantes del equipo.
 
