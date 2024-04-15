@@ -1,7 +1,7 @@
   # Repositorio de Laboratorio de Lenguajes de Programación
 ---
 
-🔴 Para utilizar correctamente el repositorio público de la clase de Laboratorio de Lenguajes de Programación en GitHub sigue estos pasos 📃
+🔴 Para utilizar correctamente el repositorio público de la clase de Laboratorio de Lenguajes de Programación en GitHub, sigue estos pasos: 📃
 
 1. Descarga e instala GIT desde su página oficial: https://git-scm.com/downloads 📥
 
