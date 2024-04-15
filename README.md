@@ -9,7 +9,7 @@
 
 3. Solicita la invitación al repositorio y acéptala. 📬 Luego, crea una carpeta en tu PC para tu proyecto y abre Visual Studio Code en esa carpeta.
 
-4. Clona el repositorio de la rama principal en esa carpeta. Para hacerlo, escribe en la barra de búsqueda superior en VSCode el comando: *>git clone*  presiona Enter y luego coloca en la misma barra el URL del repositorio: *https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. También puedes clonar la rama desde la terminal de Windows del VSCcode, el CMD o el Git Bash con el siguiente comando: *git clone https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. 💻 
+4. Clona el repositorio de la rama principal en esa carpeta. Para hacerlo, escribe en la barra de búsqueda superior 🔎 en VSCode el comando: *>git clone*  presiona Enter y luego coloca en la misma barra el URL del repositorio: *https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. También puedes clonar la rama desde la terminal de Windows del VSCcode, el CMD o el Git Bash con el siguiente comando: *git clone https://github.com/Oswavzla/LABORATORIO-DE-LENGUAJE-DE-PROGRAMACION.git*  presiona Enter. 💻 
 
 5. Una vez clonado el repositorio, vincula tu repositorio local con el remoto en GitHub. Para hacerlo, abre la terminal en VSCode (Control+Shift+` para teclados en Inglés 🇺🇸 o Control+Shift+ñ para teclados en Español 🇪🇸
 
@@ -19,7 +19,7 @@
 
 7. Para subir los cambios a una rama separada, ve al apartado de Source Control de GIT en VSCode (Control+Shift+G), presiona los 3 puntos (…) a la derecha del signo de Refresh 🔃 , baja hasta el apartado de Branch, presiona Crear Branch y coloca el nombre de los integrantes del equipo.
 
-8. Ahora estás en la nueva rama de tu grupo. Puedes trasladar las carpetas con tus proyectos y tareas a la carpeta donde clonaste el repositorio de GitHub, la que está abierta en VSCode. Asegúrate de que estás realizando cambios en tu rama y no en la rama principal.
+8. Ahora estás en la nueva rama de tu grupo. Puedes trasladar las carpetas con tus proyectos y tareas a la carpeta donde clonaste el repositorio de GitHub, la que está abierta en VSCode. Asegúrate de que estás realizando cambios en tu rama y no en la rama principal. 🌳
 
 9. Los cambios se realizan en tu repositorio local. Para subirlos al repositorio remoto, confirma los cambios en el signo ➕, agrega un mensaje de referencia para saber qué tipo de cambio se ha realizado y agrega el ☑️Commit. Posteriormente *Sincroniza los Cambios* en el botón de mismo nombre 🔄
 
